@@ -2,6 +2,8 @@
 
 A conexão bluetooth, do Madrugada, demanda de vários softwares que são importantes para seu funcionamento. A sequência de comandos a seguir, foi seguida rigorosamente para ser utilizado no Windows 10, porém pode ser utilizado para outras versões, pois os softwares utilizam as versões mais atualizadas de cada um.
 
+Execute todos os comandos no cmd do Windows ou no Developer Command Prompt for VS 2019 como administrador para evitar falhas.
+
 ## Python
 
 Antes de iniciar, verifique a versão do python instalado:
@@ -48,7 +50,7 @@ Para instalar o pip é muito simples, primeiro faça o download do pip em:
 
 https://pypi.org/project/pip/
 
-Depois é só abrir o Developer Command Prompt for VS 2019 e navegar até a pasta onde esta o arquivo :
+Depois é só abrir o Developer Command Prompt for VS 2019 e navegar até a pasta onde está o arquivo :
 
 cd /caminho_do_arquivo_pip
 
